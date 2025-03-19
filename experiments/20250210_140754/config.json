@@ -1,0 +1,9 @@
+{
+  "device": "cpu",
+  "train_size": 8000,
+  "val_size": 2000,
+  "good_trajectories": 3000,
+  "perturbed_trajectories": 6000,
+  "random_trajectories": 1000,
+  "timestamp": "20250210_140754"
+}
